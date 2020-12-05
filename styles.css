@@ -1,0 +1,11 @@
+h3 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+}
+
+button {
+    background-color: transparent;
+    border-radius: 5px;
+    border: 1px solid grey;
+    font-size: larger;
+}
